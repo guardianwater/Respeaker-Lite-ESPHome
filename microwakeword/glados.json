@@ -1,10 +1,10 @@
 {
   "type": "micro",
   "wake_word": "glados",
+  "author": "Guardian Water",
+  "website": "https://github.com/guardianwater/Respeaker-Lite-ESPHome",
   "model": "glados.tflite",
-  "trained_languages": [
-    "en"
-  ],
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
